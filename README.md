@@ -1,5 +1,5 @@
 <div align="center">
-<h1><img src="orange-code-logo.svg" width = "180" height = "180"/></h1>
+<h1><img src="OrangeCode.svg" width = "180" height = "180"/></h1>
 
 **OrangeCode DevTool**
 
