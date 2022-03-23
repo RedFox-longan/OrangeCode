@@ -1,4 +1,6 @@
 QT += widgets
+RC_ICONS = images\OrangeCode.ico
+
 requires(qtConfig(filedialog))
 
 HEADERS         = highlighter.h \
