@@ -3,7 +3,7 @@
 
 **OrangeCode DevTool**
 
-<a href="https://jq.qq.com/?_wv=1027&k=xh0mFlcn"><img src="https://img.shields.io/badge/chat-on QQ-3AABE3.svg??logo=QQ" alt="QQ" /></a>
+<a href="https://jq.qq.com/?_wv=1027&k=pFbnz4kP"><img src="https://img.shields.io/badge/chat-on QQ-3AABE3.svg??logo=QQ" alt="QQ" /></a>
 <a href="https://afdian.net/@beanflame"><img src="https://img.shields.io/badge/Afdian-Donate-936BE5.svg?logo=Afdian" alt="beanflame on Afdian"></a>
 <a href="https://www.patreon.com/beanflame"><img src="https://img.shields.io/badge/patreon-Donate-FF424D.svg?logo=patreon" alt="beanflame on Patreon"></a>
 
